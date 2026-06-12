@@ -41,13 +41,7 @@ The model cuts error roughly in half relative to the baseline. The baseline is n
 - Quantify the year-over-year growth effect (e.g., include `yr`/month features and compare)
 - Deploy as a Streamlit app for interactive predictions
 
-## Repo Structure
 
-```
-├── bikeanalysis.ipynb   # EDA, time-based split, baseline, model, evaluation
-├── README.md
-└── requirements.txt
-```
 
 ## Acknowledgments
 
